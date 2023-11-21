@@ -2,7 +2,7 @@
 
 ## Description
 
-This Study Guide was created for boto camp students who were going through the Prework. It contains HTML, CSS, git, and Javascript.
+This Study Guide was created for goto camp students who were going through the Prework. It contains HTML, CSS, git, and Javascript.
 
 ## Installation
 
